@@ -1,0 +1,6 @@
+<base.MailUtil>
+  <mail__toAddress></mail__toAddress>
+  <mail__subject>≤‚ ‘“¿¿µ°£</mail__subject>
+  <mail__contents>≤‚ ‘“¿¿µ°£</mail__contents>
+  <isSend>false</isSend>
+</base.MailUtil>

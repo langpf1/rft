@@ -1,0 +1,6 @@
+<base.Paths>
+  <rft__install__path>C:\Program Files\IBM\SDP</rft__install__path>
+  <rft__workspace__path>E:\Workspace\Project1</rft__workspace__path>
+  <jdk__path>E:\RFTCaseManager\jre6</jdk__path>
+  <case__path>E:\RFTcase</case__path>
+</base.Paths>

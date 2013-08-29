@@ -1,0 +1,1 @@
+E:\RFTCaseManager\temp\temp.bat E:\RFTCaseManager\case\aaÖĞ.xls

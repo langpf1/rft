@@ -1,0 +1,5 @@
+<base.ReplayUtil>
+  <sleepTimeInAction></sleepTimeInAction>
+  <sleepTimeWaitForComp></sleepTimeWaitForComp>
+  <replayLang>0</replayLang>
+</base.ReplayUtil>
